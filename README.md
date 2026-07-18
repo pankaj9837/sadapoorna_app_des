@@ -22,3 +22,10 @@ Test Credentials for Google Reviewers:
 CORE PERMISSIONS DECLARATION:
 * Fine/Coarse Location (ACCESS_FINE_LOCATION): Required exclusively by the Logistics Tracking and Daily Route modules to map field associate coordinates and optimize physical delivery drops.
 * Camera Access (CAMERA): Required strictly for the QR Generator / Scanner tool to process internal warehouse asset barcodes and verify stock inventories.
+
+Name:Sadapoorna Traders
+Pckage_name:in.sadapoorna.agent.twa
+Password:Sadapoorna12
+
+Privacy-policy:  https://agent.sadapoorna.in/privacy-policy
+Terms & Condtion: https://agent.sadapoorna.in/terms-and-conditions
