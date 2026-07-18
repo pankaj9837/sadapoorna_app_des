@@ -29,3 +29,4 @@ Password:Sadapoorna12
 
 Privacy-policy:  https://agent.sadapoorna.in/privacy-policy
 Terms & Condtion: https://agent.sadapoorna.in/terms-and-conditions
+Account Deletion: https://agent.sadapoorna.in/account-deletion
